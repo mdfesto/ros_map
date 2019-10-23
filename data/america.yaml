@@ -60,8 +60,8 @@
   link: http://bnrobotics.com
 - name: Brisa Robotics
   type: company
-  lat: -34.947365
-  long: -8.253074
+  lat: -8.253074
+  long: -34.947365
   address: Avenida A, 4165 - Novo Mundo Empresarial, PE, 54522-005
   description: Robotics and Autonomous Systems Company. Serving companies worldwide
     from the Brazilian Northeast
