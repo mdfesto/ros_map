@@ -160,3 +160,9 @@
   long: 139.762819
   link: https://tier4.jp/
   description: Autonomous driving solutions built with ROS.
+- name: Open Source Robotics Corporation Singapore
+  type: company
+  lat: 1.298836
+  long: 103.787865
+  link: https://www.openrobotics.org/
+  description: Open Robotics - the Singapore Edition
